@@ -1,8 +1,3 @@
-Below is a **clean, simple, humanized README** with **no emojis** and an added **Output section**.
-It removes marketing tone, removes all emojis, and is structured for clarity and readability.
-
----
-
 # ShopEZ Delta Lake E-commerce Data Pipeline
 
 ## Business Scenario
