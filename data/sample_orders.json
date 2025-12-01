@@ -1,0 +1,47 @@
+[
+  {
+    "order_id": "ORD00000001",
+    "order_timestamp": "2024-01-15T10:30:00Z",
+    "customer_id": "CUST001234",
+    "country": "US",
+    "amount": 125.50,
+    "currency": "USD",
+    "status": "PAID"
+  },
+  {
+    "order_id": "ORD00000002", 
+    "order_timestamp": "2024-01-15T11:45:00Z",
+    "customer_id": "CUST005678",
+    "country": "IN",
+    "amount": 2500.00,
+    "currency": "INR",
+    "status": "CREATED"
+  },
+  {
+    "order_id": "ORD00000003",
+    "order_timestamp": "2024-01-15T14:20:00Z", 
+    "customer_id": "CUST009876",
+    "country": "UK",
+    "amount": 89.99,
+    "currency": "GBP",
+    "status": "CANCELLED"
+  },
+  {
+    "order_id": "ORD00000004",
+    "order_timestamp": "2024-01-16T09:15:00Z",
+    "customer_id": "CUST001234",
+    "country": "US", 
+    "amount": 75.25,
+    "currency": "USD",
+    "status": "PAID"
+  },
+  {
+    "order_id": "ORD00000005",
+    "order_timestamp": "2024-01-16T16:30:00Z",
+    "customer_id": "CUST012345",
+    "country": "DE",
+    "amount": 199.99,
+    "currency": "EUR",
+    "status": "CREATED"
+  }
+]
